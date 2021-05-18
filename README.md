@@ -1,6 +1,6 @@
 - 🔭 I’m currently working as Java software engineer
 - 🌱 Learning about k8s
 - 💬 Ask me about Java, Spring boot, REST APIs and Linux
-- 📫 How to reach me: Linkedin
-- 😄 Pronouns: He/His/Him
+- 📫 How to reach me: LinkedIn
+- 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: TBD
